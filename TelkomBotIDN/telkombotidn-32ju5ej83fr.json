@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "telkombotidn", /* EXAMPLE */
+  "private_key_id": "", /* ISI PRIVATE KEY ID DISINI */
+  "private_key": "", /* ISI PRIVATE KEY DISINI */
+  /* EXAMPLE: "private_key": "-----BEGIN PRIVATE KEY-----\nHERE-----END PRIVATE KEY-----\n" */
+  "client_email": "", /* ISI CLIENT EMAIL DISINI */
+  "client_id": "", /* ISI CLIENT ID DISINI */
+  "auth_uri": "", /* ISI AUTH URI DISINI*/
+  "token_uri": "", /* ISI TOKEN URI DISINI*/
+  "auth_provider_x509_cert_url": "", /* ISI AUTH PROVIDER CERTIFICATE DISINI */
+  "client_x509_cert_url": "" /* ISI CLIENT CERTIFICATE URL DISINI */
+}
